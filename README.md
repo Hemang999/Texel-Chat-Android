@@ -33,7 +33,7 @@ Features:-
 
 Support the project:-
 
-I would love to work full time developing the open source. At the moment, I have to spend a substantial amount of time doing other consulting work. If you like what we're doing and would like to support us to focus more of our time on the open source project we would be very grateful.
+Would love to work full time developing the open source. At the moment, I have to spend a substantial amount of time doing other consulting work. If you like what we're doing and would like to support us to focus more of our time on the open source project we would be very grateful.
 
 -> Giving us a Github star ⭐
 -> Promote the project on social media platforms
